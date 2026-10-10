@@ -4,6 +4,10 @@ Uma aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScr
 
 O objetivo deste projeto é permitir que o usuário adicione tarefas, marque as concluídas e remova itens da lista de forma rápida e intuitiva. Além disso, as tarefas ficam salvas no navegador usando `localStorage`, então a lista continua disponível mesmo após recarregar a página.
 
+## Visual
+
+![alt text](img/visual.png)
+
 ## 📌 Sobre o projeto
 
 Este é um projeto didático de JavaScript, pensado para praticar:
