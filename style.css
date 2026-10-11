@@ -55,7 +55,7 @@ input {
 button {
     border: none;
     outline: none;
-    padding: 16px 50px;
+    padding: 16px 35px;
     background: #ff5945;
     color: #fff;
     font-size: 16px;
@@ -66,7 +66,7 @@ button {
 ul li {
     list-style: none;
     font-size: 17px;
-    padding: 15px 8px 12px 50px;
+    padding: 16px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
     position: relative;
